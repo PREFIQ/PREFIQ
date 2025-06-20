@@ -63,11 +63,3 @@
 
 ---
 
-Would you like:
-
-* A logo for PREFIQ?
-* A landing page mockup or brand deck?
-* A GitHub boilerplate project called **PREFIQ Stack**?
-
-Let me know how you want to take this forward!
-
