@@ -25,5 +25,3 @@
 ## ✅ Example Brand Statement
 
 > "**PREFIQ** is the intelligent full-stack framework built for the AI-powered enterprise era. Combining Python, React, FastAPI, and PostgreSQL — it's engineered to accelerate modern apps with insight, performance, and simplicity."
-
----
